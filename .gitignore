@@ -1,0 +1,9 @@
+CMakeFiles
+CMakeCache.txt
+.cache
+cmake_install.cmake
+compile_commands.json
+libjson.a
+Makefile
+main.cpp
+sample.json
